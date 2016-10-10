@@ -63,17 +63,13 @@ ul {
     overflow: hidden;
 }
 
-#menu{
-	clear:center;
-}
-
 #menu {
     display:inline-block;
     color: black;
     padding: 14px 16px;
     text-decoration: none;
 	font-size:28px;
-	margin-right:149px;
+	margin-right:145px;
 }	
 
 #menu1{
