@@ -84,9 +84,8 @@ ul {
 
 
 #myphoto{
-	width:2000px;
-	margin-left:265px;
-	margin-right:50px;
+	width:80%;
+	position:center;
 }
 h2{
 	font-size:29px;
