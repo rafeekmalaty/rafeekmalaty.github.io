@@ -1,6 +1,8 @@
 /*style.css*/
-*{
-	background-color:BlanchedAlmond;
+body {
+    background-image: url(pic2.jpg);
+	backgroun-repeat: no-repeat;
+	background-size:cover;
 }
 body{
 	border:0px solid black;
@@ -8,7 +10,7 @@ body{
 #maincontent{
 	width: 60%;
 	float: left;
-	padding-right:25px;
+	padding-right:25%;
 }
 
 #content{
@@ -17,8 +19,8 @@ body{
 	font-size:28px;
 	border:solid 2px;
 	padding-left:25px;
-	padding-right:1000px;
-	padding-bottom:3px;
+	padding-right:965px;
+	padding-bottom:3%;
 }
 
 #sidebar{
@@ -72,6 +74,7 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
 	font-size:28px;
+	margin-right:10%;
 	margin-right:10%;
 }	
 
@@ -131,4 +134,7 @@ span {
 	font-weight: bold;
 	font-size: 28px;
 	color: #ffffff;
+}
+dt{
+	font-size:32px;
 }
