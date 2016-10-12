@@ -1,7 +1,7 @@
 /*style.css*/
 body {
     background-image: url(pic5.jpg);
-	backgroun-repeat: no-repeat;
+	background-repeat: no-repeat;
 	background-size:cover;
 	border:0px solid black;
 }
@@ -18,28 +18,13 @@ body {
 	font-size:28px;
 	border:solid 2px;
 	padding-left:25px;
-	padding-right:73%;;
+	padding-right:965px;
 	padding-bottom:3%;
 }
 
 #sidebar{
 	width: 30%;
 	float: right;
-}
-
-#footer #col1{
-	width: 30%;
-	display: inline;
-}
-
-#footer #col2{
-	width: 30%;
-	display: inline;
-}
-
-#footer #col3{
-	width: 30%;
-	display: inline;
 }
 
 #container{
@@ -87,13 +72,13 @@ ul {
 	margin-left:100px;
 }
 
+
 #myphoto{
 	width:80%;
 	margin-left:120px;
 	float:left;
 	padding-bottom:10px;
 }
-
 h2{
 	font-size:29px;
 	font-family:Bastion;
@@ -109,23 +94,18 @@ p{
 	border-top:2px;
 }
 
-#aboutImg{
-	float:right;
-	height: 250px;
-	border-top:25px;
-}
-
 #abouttext{
 	border:100px;
 }
-
 #cv{
 	border-left:250px;
 	border-bottom:50px;
 	height:400px;
+	margin-top:13%;
 }
 
-#cvbutton{border:0px solid black;
+#cvbutton{
+	border:0px solid black;
 	text-decoration: none;
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
@@ -133,19 +113,12 @@ p{
 	border:2px solid black;
 	margin-left:41%;
 	padding:5px
-	
-}
-
-span {
-	font-weight: bold;
-	font-size: 28px;
-	color: #ffffff;
 }
 
 dt{
 	font-size:32px;
 }
 
-#pictures{
-margin-left:12%;
+#contacts{
+	font-size:28px;
 }
