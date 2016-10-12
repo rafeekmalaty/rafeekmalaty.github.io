@@ -1,12 +1,11 @@
 /*style.css*/
 body {
-    background-image: url(pic3.jpg);
+    background-image: url(pic5.jpg);
 	backgroun-repeat: no-repeat;
 	background-size:cover;
-}
-body{
 	border:0px solid black;
 }
+
 #maincontent{
 	width: 60%;
 	float: left;
@@ -19,7 +18,7 @@ body{
 	font-size:28px;
 	border:solid 2px;
 	padding-left:25px;
-	padding-right:965px;
+	padding-right:73%;;
 	padding-bottom:3%;
 }
 
@@ -88,13 +87,13 @@ ul {
 	margin-left:100px;
 }
 
-
 #myphoto{
 	width:80%;
 	margin-left:120px;
 	float:left;
 	padding-bottom:10px;
 }
+
 h2{
 	font-size:29px;
 	font-family:Bastion;
@@ -109,32 +108,44 @@ p{
 	font-family:Arial;
 	border-top:2px;
 }
+
 #aboutImg{
 	float:right;
 	height: 250px;
 	border-top:25px;
 }
+
 #abouttext{
 	border:100px;
 }
+
 #cv{
 	border-left:250px;
+	border-bottom:50px;
+	height:400px;
 }
 
-#cvbutton{
+#cvbutton{border:0px solid black;
 	text-decoration: none;
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
 	font-size:28px;
 	border:2px solid black;
-	
+	margin-left:41%;
+	padding:5px
 	
 }
+
 span {
 	font-weight: bold;
 	font-size: 28px;
 	color: #ffffff;
 }
+
 dt{
 	font-size:32px;
+}
+
+#pictures{
+margin-left:12%;
 }
